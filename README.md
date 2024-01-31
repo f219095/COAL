@@ -1,4 +1,5 @@
 **Snake Game in Assembly Language (NASM)**
+
 This repository contains a classic Snake game implemented in assembly language using **NASM (Netwide Assembler)**. The game is designed to run on x86 architecture and showcases low-level programming skills.
 
 **Features**
