@@ -5,7 +5,11 @@ This repository contains a classic Snake game implemented in assembly language u
 **Features**
 
 **Snake Movement:** The snake moves through the game grid based on user input.
+
 **Food Generation:** Random generation of food for the snake to consume, increasing its length.
+
 **Collision Handling:** Proper handling of collisions, including self-collision and collision with the game boundaries.
+
 **Score Tracking:** Keep track of the player's score as they consume food and grow the snake.
+
 **Game Over Screen:** Display a game over screen with the final score upon collision.
